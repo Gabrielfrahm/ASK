@@ -1,0 +1,30 @@
+{
+  "name": "projeto-ask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://GabrielFrahm@bitbucket.org/GabrielFrahm/projeto-ask.git"
+  },
+  "author": "Gabriel Marques",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/GabrielFrahm/projeto-ask#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "normalize.css": "^8.0.1",
+    "postcss-import": "^12.0.1",
+    "postcss-middleware": "^1.1.4",
+    "postcss-mixins": "^6.2.3",
+    "postcss-nested": "^4.2.1",
+    "postcss-simple-vars": "^5.0.2",
+    "sequelize": "^5.21.5"
+  }
+}
